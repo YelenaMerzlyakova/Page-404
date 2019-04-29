@@ -25,7 +25,7 @@ section:before {
     background: url(testcard2.jpg);
     opacity: 0.5;
     /*mix-blend-mode: hard-light;*/
-    animation: animate .2s linear infinite;
+    animation: animate .6s linear infinite;
 }
 
 /*section:hover:before{
@@ -84,7 +84,7 @@ section:before {
 
 
 .glitch {
-    animation: glitch-skew 4s 4s infinite;
+    animation: glitch-skew 8s 8s infinite;
     font-family: tahoma, sans-serif;
     font-size: 8em;
     font-weight: bold;
