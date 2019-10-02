@@ -18,7 +18,6 @@ if you are prone to them. Otherwise have [fun!](https://yelenamerzlyakova.github
 - Create your 404 page in **HTML** and **CSS**
 - Here's some [inspirations](https://www.google.be/search?q=landing+page&espv=2&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjmvai3v6zTAhVBCSwKHfOIAGMQ_AUIBigB&biw=1250&bih=703#tbm=isch&q=404+page)
 - Create a button **back** on the 404 page that redirects to your GitHub profile
-- Deploy it online with [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 
 
@@ -34,4 +33,4 @@ if you are prone to them. Otherwise have [fun!](https://yelenamerzlyakova.github
 
 ## Result 
 
-![404]()
+![404](https://github.com/YelenaMerzlyakova/Page-404/blob/master/404.png)
