@@ -1,6 +1,6 @@
 # Page-404
 
-**WARNING! FLASHING IMAGES!! LOOK AT THE IMAGE FIRST**
+:no_entry_sign: **WARNING! FLASHING IMAGES!! LOOK AT THE IMAGE FIRST** :no_entry_sign:
 
 This is a second 404-page I created, just for fun. Please be carefull, this page contains flashing images that can cause seizures
 if you are prone to them. Otherwise have [fun!](https://yelenamerzlyakova.github.io/Page-404/)
